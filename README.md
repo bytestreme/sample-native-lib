@@ -7,4 +7,4 @@ I made it by adding
 SET(B_FLAG "-fPIC")
 add_definitions(${B_FLAG})
 
-into CMakeLists.txt of the Nuspell
+into CMakeLists.txt of the Nuspell before doing **cmake .**
