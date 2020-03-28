@@ -1,0 +1,11 @@
+name: spell_check
+version: 0.0.1
+description: >-
+  spell checking in Dart using Nuspell
+author: Shynggys Sapraliyev <sapraliyevshynggys@gmail.com>
+dependencies:
+  ffi: ^0.1.3
+environment:
+  sdk: ">=2.6.0 <3.0.0"
+dev_dependencies:
+  test: ^1.5.3

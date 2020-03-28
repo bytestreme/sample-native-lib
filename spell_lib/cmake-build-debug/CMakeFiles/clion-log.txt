@@ -1,0 +1,7 @@
+/home/username/clion/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/username/spell_gsoc/spell_lib
+-- Found the following ICU libraries:
+--   uc (required)
+--   data (required)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/username/spell_gsoc/spell_lib

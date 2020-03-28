@@ -1,0 +1,3 @@
+/home/username/spell_gsoc/spell_lib/CMakeFiles/rebuild_cache.dir
+/home/username/spell_gsoc/spell_lib/CMakeFiles/check_lib.dir
+/home/username/spell_gsoc/spell_lib/CMakeFiles/edit_cache.dir

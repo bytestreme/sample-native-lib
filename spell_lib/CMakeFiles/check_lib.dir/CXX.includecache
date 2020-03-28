@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/username/spell_gsoc/spell_lib/checker.cpp
+nuspell/dictionary.hxx
+-
+nuspell/finder.hxx
+-
+iostream
+-
+checker.h
+/home/username/spell_gsoc/spell_lib/checker.h
+
+/home/username/spell_gsoc/spell_lib/checker.h
+
