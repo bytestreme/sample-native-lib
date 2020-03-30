@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/username/spell_gsoc/lib_parse/parser.cpp
+iostream
+-
+parser.h
+/home/username/spell_gsoc/lib_parse/parser.h
+clang-c/Index.h
+-
+
+/home/username/spell_gsoc/lib_parse/parser.h
+

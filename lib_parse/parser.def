@@ -1,0 +1,3 @@
+LIBRARY   parse_lib
+EXPORTS
+   consume

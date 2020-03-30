@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libparse_lib.so -o libparse_lib.so CMakeFiles/parse_lib.dir/parser.cpp.o -Wl,-rpath,/usr/lib/llvm-9/lib /usr/lib/llvm-9/lib/libclang-9.so.1 /usr/local/lib/libnuspell.a /usr/lib/llvm-9/lib/libclang-9.so.1 /usr/local/lib/libnuspell.a /usr/lib/x86_64-linux-gnu/libicuuc.so /usr/lib/x86_64-linux-gnu/libicudata.so 
