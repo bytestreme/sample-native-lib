@@ -1,4 +1,4 @@
-# Samples of using C++ libraries in Dart 
+# Examples of using C++ libraries in Dart 
 
 ## Two Dart console applications:
 * #### check.dart 
