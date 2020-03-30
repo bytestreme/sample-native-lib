@@ -1,4 +1,4 @@
-# sample-native-lib
+# Samples of using C++ libraries in Dart 
 
 ## Two Dart console applications:
 * #### check.dart 
