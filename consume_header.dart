@@ -11,7 +11,7 @@ typedef ConsumeHeader = void Function(Pointer<Utf8> name);
 
 main(List<String> args) {
 
-  var path = "./lib_parse/libparse_lib.so";
+  var path = "./parse_lib/libparse_lib.so";
 
   final dylib = DynamicLibrary.open(path);
   final Pointer<Utf8> charPointer = Utf8.toUtf8(args[0]);

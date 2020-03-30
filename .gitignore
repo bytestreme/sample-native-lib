@@ -1,14 +1,17 @@
 
-**/lib_parse/CMakeFiles/
-**/lib_parse/cmake-build-debug/
-**/lib_parse/CMakeCache.txt
-**/lib_parse/Makefile
+**/parse_lib/CMakeFiles/
+**/parse_lib/cmake-build-debug/
+/parse_lib/CMakeCache.txt
+/parse_lib/Makefile
+/parse_lib/cmake_install.cmake
 
 **/spell_lib/CMakeFiles/
 **/spell_lib/cmake-build-debug/
-**/spell_lib/CMakeCache.txt
-**/spell_lib/Makefile
+/spell_lib/CMakeCache.txt
+/spell_lib/Makefile
+/spell_lib/check_lib.cbp
+/spell_lib/cmake_install.cmake
 
 .packages
-.idea
+/.idea/
 /.dart_tool/
