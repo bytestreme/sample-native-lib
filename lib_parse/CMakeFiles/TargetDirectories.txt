@@ -1,3 +1,0 @@
-/home/username/spell_gsoc/lib_parse/CMakeFiles/rebuild_cache.dir
-/home/username/spell_gsoc/lib_parse/CMakeFiles/parse_lib.dir
-/home/username/spell_gsoc/lib_parse/CMakeFiles/edit_cache.dir

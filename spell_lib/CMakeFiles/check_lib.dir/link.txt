@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libcheck_lib.so -o libcheck_lib.so CMakeFiles/check_lib.dir/checker.cpp.o /usr/local/lib/libnuspell.a /usr/lib/x86_64-linux-gnu/libicuuc.so -ldl /usr/lib/x86_64-linux-gnu/libicudata.so 

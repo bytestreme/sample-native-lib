@@ -12,7 +12,7 @@ Usage:
    4. Run Dart file with the word as the only argument like `dart checker.dart coding`
 
 * #### consume_header.dart 
-Uses **libclang** library to make spell checking. (https://github.com/nuspell/nuspell)
+Uses **libclang** library to parse header files.
     
 Usage:
    1. Install **llvm** with **clang**
